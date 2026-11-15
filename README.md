@@ -22,4 +22,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Naman-Rathore23&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,javascript)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Naman-Rathore23&icon=0&color=8)](https://visitcount.itsvg.in)
+
